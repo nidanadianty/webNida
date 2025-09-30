@@ -30,7 +30,7 @@
                         <div class="col-lg-12">
                             <footer class="text-center my-5">
                                 &copy; 2025. All rights reserve. <br>
-                                Dibuat  👩‍⚕️ oleh Nidan.
+                                Dibuat  oleh Nidan 👩.
                             </footer>
                         </div>
                     </div>

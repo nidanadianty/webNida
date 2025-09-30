@@ -7,9 +7,10 @@ use Illuminate\Http\Request;
 
 class BeritaController extends Controller
 {
-    public function index() : View{
+    public function index()  
+    {
         $berita = berita::latest()->paginate(10);
 
-        return view('berita.index', compact('berita'));
+        return view('berita', compact('berita'));
     }
 }
