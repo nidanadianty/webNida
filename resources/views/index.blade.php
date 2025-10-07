@@ -63,7 +63,7 @@
                         </div>
                     </div>
                     <div class="text-center my-4">
-                        <a class="btn btn-outline-success" href="galeri.html">lihat lebih banyak</a>
+                        <a class="btn btn-outline-success" href="/galeri">lihat lebih banyak</a>
                     </div>
                 </div>
              </div>

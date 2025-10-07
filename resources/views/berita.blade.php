@@ -25,6 +25,10 @@
                 </div>
                 @endforeach
             </div>
+            
+            
+            </div>
+            </div>
             <!-- TUTUP SECTION BERITA -->
 <x-footer/>
                

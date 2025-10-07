@@ -7,5 +7,9 @@
     {{ session('success') }}
   </div> @endif
 
-  <p><strong></p>
-</div>
+  <p><strong>Judul:</strong><br>{{ $berita->judul?? '_' }}</p>
+  <p><strong>Gambar:</strong><br>{{ $berita->gambar?? '_' }}</p>
+  <p><strong>Isi:</strong><br>{{ $berita->isi?? '_' }}</p>
+
+  <a href="" class="btn btn-primary"></a>
+</div> 
