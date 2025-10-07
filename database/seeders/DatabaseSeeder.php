@@ -18,7 +18,8 @@ class DatabaseSeeder extends Seeder
 
         $this->call([
             BeritaSeeder::class,
-            EkstrakulikulerSeeder::class
+            EkstrakulikulerSeeder::class,
+            GaleriSeeder::class
         ]);
     }
 }

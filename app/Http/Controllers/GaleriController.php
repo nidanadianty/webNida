@@ -10,6 +10,6 @@ class GaleriController extends Controller
     public function index(){
         $galeris = Galeri::latest()->paginate(10);
 
-        return view('galeri', compact('galeri'));
+        return view('galeri', compact('galeris'));
     }
 }
