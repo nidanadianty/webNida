@@ -4,7 +4,7 @@
          <div class="container">
              <div class="row my-5">
                 <div class="col-lg-12 text-center">
-                    <div class="card text-center bg-success-subtle ">
+                    <div class="card text-center bg-primary text-white ">
                     <h2>Berita</h2>
                     </div>
                 </div>
@@ -19,7 +19,7 @@
                         </div>
                         <div class="card-body">
                             <h3 class="text-start">{{ $item->judul }}</h3>
-                            <a class="btn btn-success" href={{ $item->link }}>Baca Selengkapnya</a>
+                            <a class="btn btn-primary" href={{ $item->link }}>Baca Selengkapnya</a>
                         </div>
                     </div>
                 </div>

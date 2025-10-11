@@ -15,35 +15,35 @@ class GaleriSeeder extends Seeder
     {
         $galeri = [
             [
-                'gambar' => 'https://tse1.mm.bing.net/th/id/OIP.EFLCcle1u4WOoQwnap7elQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3',
+                'gambar' => 'https://smkn4tsm-frida.vercel.app/_nuxt/hutri1.CK4XGipI.png=3',
                 
             ],
             [
-                'gambar' => 'https://tse3.mm.bing.net/th/id/OIP.MEncH6oEtGUvjlapJK5kgQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3',
+                'gambar' => 'https://smkn4tsm-frida.vercel.app/_nuxt/hutri4.n3LONpmG.png',
                 
             ],
             [
-                'gambar' => 'https://tse4.mm.bing.net/th/id/OIP.8YBSXcjEsDolJXC4WliAyAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3',
+                'gambar' => 'https://smkn4tsm-frida.vercel.app/_nuxt/hutri3.CGkDK8sb.png',
                 
             ],
             [
-                'gambar' => 'https://radartasik.id/wp-content/uploads/2024/05/Duta-Safety-Riding-SMKN-4-Tasikmalaya-.webp',
+                'gambar' => 'https://smkn4tsm-frida.vercel.app/_nuxt/mpls1.DwNqnuoX.png',
                 
             ],
             [
-                'gambar' => 'https://radartasik.id/wp-content/uploads/2024/05/Duta-Safety-Riding-SMKN-4-Tasikmalaya-.webp',
+                'gambar' => 'https://smkn4tsm-frida.vercel.app/_nuxt/mpls2.CmrH-vUm.png',
                 
             ],
             [
-                'gambar' => 'https://radartasik.id/wp-content/uploads/2024/05/Duta-Safety-Riding-SMKN-4-Tasikmalaya-.webp',
+                'gambar' => 'https://smkn4tsm-frida.vercel.app/_nuxt/mpls5.iNSKAfZF.png',
                 
             ],
             [
-                'gambar' => 'https://radartasik.id/wp-content/uploads/2024/05/Duta-Safety-Riding-SMKN-4-Tasikmalaya-.webp',
+                'gambar' => 'https://smkn4tsm-frida.vercel.app/_nuxt/porseni3.BeUFxNND.png',
                 
             ],
             [
-                'gambar' => 'https://radartasik.id/wp-content/uploads/2024/05/Duta-Safety-Riding-SMKN-4-Tasikmalaya-.webp',
+                'gambar' => 'https://smkn4tsm-frida.vercel.app/_nuxt/hutri5.DKAQINHm.png',
                 
             ]
         ];

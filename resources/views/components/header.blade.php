@@ -14,30 +14,30 @@
 <body>
         
         <!--navbar-->
-        <nav class="navbar sticky-top navbar-expand-lg bg-success-subtle body-tertiary">
+        <nav class="navbar sticky-top navbar-expand-lg bg-primary body-tertiary">
     <div class="container-fluid">
         <a class="navbar-brand" href="#"> <img src="https://upload.wikimedia.org/wikipedia/id/9/9e/Logo_SMK_Negeri_4_Tasikmalaya.png" alt="bootstrap" width="40" height="40"></a>
-        <a class="navbar-brand" href="#">SMKN 4 TASIKMALAYA</a>
+        <a class="navbar-brand text-white" href="#">SMKN 4 TASIKMALAYA</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
             <li class="nav-item">
-            <a class="nav-link" href="/">Beranda</a>
+            <a class="nav-link text-white" href="/">Beranda</a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="/profil">Profil</a>
+            <a class="nav-link text-white" href="/profil">Profil</a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="/ekstrakulikuler">Ekstrakulikuler</a>
+            <a class="nav-link text-white" href="/ekstrakulikuler">Ekstrakulikuler</a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="/galeri">Galeri</a>
+            <a class="nav-link text-white" href="/galeri">Galeri</a>
             </li>
             
             <li class="nav-item">
-            <a class="nav-link" href="/berita">Berita</a>
+            <a class="nav-link text-white" href="/berita">Berita</a>
             </li>
             
         </ul>

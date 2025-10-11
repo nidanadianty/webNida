@@ -12,7 +12,7 @@
 
 <!-- SECTION Informasi -->
 <div class="container mt-5">
-   <div class="card text-center bg-success-subtle">
+   <div class="card text-center bg-primary text-white">
             <h2 >Profil Sekolah</h2>
             </div>
 
@@ -59,7 +59,7 @@
        <div class="container">
     <div class="row my-5">
         <div class="col-lg-12 text-center">
-            <div class="card text-center bg-success-subtle">
+            <div class="card text-center bg-primary text-white">
             <h2 >Sejarah Sekolah</h2>
             </div>
         </div>
@@ -76,18 +76,18 @@
      <div class="container">
     <div class="row my-5">
         <div class="col-lg-12 text-center">
-            <div class="card text-center bg-success-subtle">
-            <h2 >Visi dan Misi</h2>
+            <div class="card text-center bg-primary text-white">
+            <h2>VISI & MISI</h2>
             </div>
         </div>
     </div>
     <div class="row">
      <div class="col-lg-12">
-            <h5 class="text-center mb-3">Visi</h5>
+            <h5 class="text-center mb-3">VISI</h5>
             <p style="text-align: justify;">"TERWUJUDNYA LULUSAN YANG CERDAS, AKTIF, KOMPETITIF, ADAPTIF DAN PRODUKTIF, BERLANDASKAN IMAN DAN TAKWA" "(CAKAP BERIMTAK)"</p>
         </div>
      <div class="col-lg-12">
-            <h5 class="text-center mb-3">Misi</h5>
+            <h5 class="text-center mb-3">MISI</h5>
             <p style="text-align: justify;">1. Menyiapkan Sumber Daya Manusia yang cerdas dan kompeten baik hardskill maupun softskill.</p>
             <p style="text-align: justify;">2. Meningkatkan dan mengembangkan aktifitas serta kreatifitas seluruh warga sekolah dalam berbagai kegiatan positif.</p>
             <p style="text-align: justify;">3. Mewujudkan manajemen pengelolaan yang efektif, efesien, transparan, akuntabel dan layanan prima.</p>

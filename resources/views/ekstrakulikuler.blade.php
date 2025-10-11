@@ -1,6 +1,6 @@
 <x-header />
   <section class="container">
-  <div class="card text-center bg-success-subtle my-4">
+  <div class="card text-center bg-primary text-white my-4">
     <h2>Ekstrakulikuler</h2>
     <p>Sekolah kami memiliki beberapa Ekstrakulikuler yang tersedia</p>
   </div>

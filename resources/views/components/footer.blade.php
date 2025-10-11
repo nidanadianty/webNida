@@ -1,5 +1,5 @@
 <!-- SECTION footer -->
-              <footer class="bg-success-subtle mt-5">
+              <footer class="bg-primary text-white mt-5">
               <div class="container">
               <div class="row">
                 <div class="col-lg-12">
@@ -17,10 +17,10 @@
                                 <div class="col-lg-2">
                                     <h3>Tautan</h3>
                                     <ul>
-                                        <li><a href="https://kemendikdasmen.go.id/">kemendikdasmen</a></li>
-                                        <li><a href="https://disdik.jabarprov.go.id/">Disdik.Jabar</a></li>
-                                        <li><a href="https://id.wikipedia.org/wiki/Jawa_Barat">Provinsi Jabar</a></li>
-                                        <li><a href="https://guru.kemdikbud.go.id/">Ruang GTK</a></li>
+                                        <li><a class="text-white" href="https://kemendikdasmen.go.id/">kemendikdasmen</a></li>
+                                        <li><a class="text-white" href="https://disdik.jabarprov.go.id/">Disdik.Jabar</a></li>
+                                        <li><a class="text-white" href="https://id.wikipedia.org/wiki/Jawa_Barat">Provinsi Jabar</a></li>
+                                        <li><a class="text-white" href="https://guru.kemdikbud.go.id/">Ruang GTK</a></li>
                                     </ul>
                                 </div>
                             </div>
